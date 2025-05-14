@@ -57,9 +57,6 @@ GitHub: @sachinn854
 📄 License
 This project is open-source and available under the MIT License.
 
-yaml
-Copy
-Edit
 
 ---
 
